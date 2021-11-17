@@ -11,7 +11,6 @@ http.createServer(function (req, res) {
     }).on('data', (chunk) => {
     }).on('end', () => {
         console.log(req.url);
-        req.url = req.url.substring(avalPath.length);
         if (req.url === "\/") {
             fs.readFile("./docs/index.html", "UTF-8", function (err, html) {
                 res.writeHead(200, { "Content-Type": "text/html" });
