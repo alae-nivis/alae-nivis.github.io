@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fevents","\u002Fevents\u002Fblu","\u002Fevents\u002Fdragon-farm","\u002Fevents\u002Fendwalker-extremes","\u002Fevents\u002Ftreasure-hunt"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
