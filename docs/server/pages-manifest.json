@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/events/new-alliance": "pages/events/new-alliance.js",
+  "/events/new-unreal": "pages/events/new-unreal.js",
+  "/events": "pages/events.js"
+}
