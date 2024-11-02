@@ -22,6 +22,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/events": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/events.js"
+    ],
     "/events/new-alliance": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -41,11 +46,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/events/treasure-hunt.js"
-    ],
-    "/events/uwu": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/events/uwu.js"
     ]
   },
   "ampFirstPages": []
