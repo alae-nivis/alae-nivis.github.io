@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/events/uwu": "pages/events/uwu.js",
+  "/events/new-extreme": "pages/events/new-extreme.js",
+  "/events/treasure-hunt": "pages/events/treasure-hunt.js",
+  "/events/new-alliance": "pages/events/new-alliance.js",
+  "/events/new-unreal": "pages/events/new-unreal.js"
+}
