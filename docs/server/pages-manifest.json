@@ -1,8 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/events/treasure-hunt": "pages/events/treasure-hunt.js",
-  "/events/ex4-clearing": "pages/events/ex4-clearing.js",
-  "/events/wings-farm": "pages/events/wings-farm.js"
-}
